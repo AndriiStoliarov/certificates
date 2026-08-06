@@ -1,6 +1,6 @@
 # certificates
 
-Certificates of successful completion of specialized courses.
+Certificates of successful completion of specialized courses:
 
 ![javascriptCert](javascript/javascript-certificate-FLS2583-eng-AS.png)
 

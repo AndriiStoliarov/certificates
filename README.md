@@ -4,4 +4,4 @@
 
 ![webUICert](layout/web-UI-cert-FLS2199-eng-AS.png)
 
-![advancedFrontendStiker](advanced-frontend-stiker-MA-from-Master-of-Code-uk.png)
+![advancedFrontendStiker](advanced-frontend-stiker-MA.png)

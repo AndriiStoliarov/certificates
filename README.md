@@ -1,7 +1,7 @@
 # 📜 certificates
 
-![javascriptCert](javascript/javascript-certificate-FLS2583-eng-AS.png)
+![javascriptCert](javaScript/javaScript-certificate-FLS2583-eng-AS.png)
 
-![webLayoutCert](web-layout/web-layout-certificate-FLS2199-eng-AS.png)
+![webLayoutCert](layout/web-UI-certificate-FLS2199-eng-AS.png)
 
-![advancedFrontEndStiker](advanced-front-end-stiker-MA-from-Master-of-Code-uk.png)
+![advancedFrontendStiker](advanced-frontend-stiker-MA-from-Master-of-Code-uk.png)

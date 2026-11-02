@@ -1,6 +1,6 @@
 # 📜 certificates
 
-![javaScriptCert](javaScript/javascript-certificate-FLS2583-eng-AS.png)
+![javaScriptCert](javaScript/javaScript-certificate-FLS2583-eng-AS.png)
 
 ![webUICert](layout/web-UI-certificate-FLS2199-eng-AS.png)
 
